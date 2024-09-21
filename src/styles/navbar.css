@@ -15,6 +15,7 @@
     flex-flow: row nowrap;
     align-items: center;
     gap: 4px;
+
     /* background: orange; */
     width: 25%;
     padding: 0px 4px;
@@ -58,7 +59,7 @@
 
 /* NAV CONTAINER CENTER */
 
-/* .nav-container-center {} */
+
 
 .nav-container-center li {
     list-style-type: none;
@@ -67,7 +68,7 @@
 .navbar-items {
     display: flex;
     flex-flow: row nowrap;
-    /* gap: 16px; */
+  
 }
 
 .navbar-items a {

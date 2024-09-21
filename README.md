@@ -32,9 +32,9 @@ This LinkedIn-clone React project includes the following features:
 
 ### Screenshot (desktop and mobile view)
 
-![desktop](/src/desktop-linkedin.png)
+![desktop](src/desktop-linkedin.png)
 
-![mobile](/src/mobile-linkedin.png)
+![mobile](src/mobile-linkedin.png)
 
 
 ### Links

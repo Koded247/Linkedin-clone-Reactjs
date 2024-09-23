@@ -9,10 +9,10 @@ export const profileData = {
         height={80}
         style={{ background: "navajowhite", borderRadius: "50%", border: "2px solid white" }}
     />,
-    name: "Mayowa Obisesan",
-    bio: "Software Engineer | Frontend Developer | Web3 Mentor at web3bridge",
-    profileViewers: 65,
-    postImpressions: 43,
+    name: "Akorede Abidoye",
+    bio: "Software Engineer | Frontend Developer ",
+    profileViewers: 85,
+    postImpressions: 103,
 }
 
 function ProfileCard() {

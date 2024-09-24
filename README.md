@@ -32,14 +32,14 @@ This LinkedIn-clone React project includes the following features:
 
 ### Screenshot (desktop and mobile view)
 
-![desktop](src/desktop-linkedin.png)
+![desktop](./src/components/Assets/desktop-linkedin.png)
 
-![mobile](src/mobile-linkedin.png)
+![mobile](./src/components/Assets/mobile-linkedin.png)
 
 
 ### Links
 
-- Live Site URL: [live site URL]( )
+- Live Site URL: [live site URL]( https://linkedin-clone-reactjs-three.vercel.app/)
 
 
 ### Built with

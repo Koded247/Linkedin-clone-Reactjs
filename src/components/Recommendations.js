@@ -3,36 +3,36 @@ import { truncateText } from "../utils";
 export const recommendationData = [
     {
         dp: <img
-            src="https://api.dicebear.com/9.x/adventurer/svg?seed=Ryan"
+            src="https://media.licdn.com/dms/image/v2/C4D03AQFP-cp26qyBJA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1656941846715?e=1732752000&v=beta&t=Jg3rLsR6luluuktVvcJTNUNScsSuIcdKdOYysayq6jo"
             alt="avatar"
             width={80}
             height={80}
             style={{ background: "navajowhite", borderRadius: "50%", border: "2px solid white" }}
         />,
-        name: "Mayowa Obisesan",
-        bio: "Software Engineer | Frontend Developer | Web3 Mentor at web3bridge",
+        name: "muhammed kabir",
+        bio: "Business Owner | Investor",
     },
     {
         dp: <img
-            src="https://api.dicebear.com/9.x/adventurer/svg?seed=Ryan"
+            src="https://media.licdn.com/dms/image/v2/D4D03AQEe_9Rg5DcEcQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1699354218628?e=1732752000&v=beta&t=WYTOhxouZJVlMFl2jjybh3F9k6d_rNeedjCVoQx3pRs"
             alt="avatar"
             width={80}
             height={80}
             style={{ background: "navajowhite", borderRadius: "50%", border: "2px solid white" }}
         />,
-        name: "Mayowa Obisesan",
-        bio: "Software Engineer | Frontend Developer | Web3 Mentor at web3bridge",
+        name: "Olawale Gabriel",
+        bio: "Teacher | Tutor",
     },
     {
         dp: <img
-            src="https://api.dicebear.com/9.x/adventurer/svg?seed=Ryan"
+            src="https://media.licdn.com/dms/image/v2/D4D35AQGnv5Cls4h8mA/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1719437447990?e=1727798400&v=beta&t=b5jQH0MyJIBPPpjiPGK5c0Q6UU8ehFwNDrn64dJOH7I"
             alt="avatar"
             width={80}
             height={80}
             style={{ background: "navajowhite", borderRadius: "50%", border: "2px solid white" }}
         />,
-        name: "Mayowa Obisesan",
-        bio: "Software Engineer | Frontend Developer | Web3 Mentor at web3bridge",
+        name: "chinedu Amaka",
+        bio: "fashion Designer",
     },
 ]
 

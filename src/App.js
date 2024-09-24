@@ -82,6 +82,8 @@ function App() {
         <div>
           <RecommendationsCard />
           <RightFooter />
+
+          
           <div className='text-xs text-center'>LinkedIn Corporation © 2024</div>
         </div>
       </div>

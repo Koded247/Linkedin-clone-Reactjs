@@ -3,7 +3,7 @@ function CreatePost() {
       <section className="flex flex-col gap-y-1 bg-white border px-2 py-3 rounded-lg">
           <div className="flex flex-row gap-x-2">
               <img
-                  src="https://api.dicebear.com/9.x/adventurer/svg?seed=Ryan"
+                  src="https://media.licdn.com/dms/image/v2/D4D35AQEoBDfSdgUoGA/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1695289367351?e=1727776800&v=beta&t=xgZeFrcC9AJcoZSUFKDiJqknbEsxCOPkKaB_dZsmiHs"
                   alt="avatar"
                   width={48}
                   height={48}

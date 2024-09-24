@@ -1,15 +1,21 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Navbar from './components/navBar';
 import 'boxicons';
 import ProfileCard from './components/profileCard';
 import CreatePost from './components/createPost';
 import Post from './components/Post';
+import RecommendationsCard from './components/Recommendations';
+import RightFooter from './components/RightFooter';
+
+
+// import RecommendationsCard from './components/Recommendations';
+// import RightFooter from './components/RightFooter';
 
 const postData = [
   {
-    name: "Mayowa Obisesan",
-    bio: "Software Engineer | Frontend Developer | Web3 Mentor at web3bridge",
+    name: "Akorede Abidoye",
+    bio: "Software Engineer | Frontend Developer ",
     text: "This is the dummy text that should show for the first post component"
   },
   {
@@ -41,8 +47,8 @@ const postData = [
     bio: "This is user seven bio",
   },
   {
-    name: "Mayowa Obisesan",
-    bio: "Software Engineer | Frontend Developer | Web3 Mentor at web3bridge",
+    name: "Akorede Abidoye",
+    bio: "Software Engineer | Frontend Developer",
   },
 ]
 
@@ -72,8 +78,11 @@ function App() {
         </div>
 
         {/* The Right side of the body */}
+        
         <div>
-          <ProfileCard />
+          <RecommendationsCard />
+          <RightFooter />
+          <div className='text-xs text-center'>LinkedIn Corporation © 2024</div>
         </div>
       </div>
     </div>

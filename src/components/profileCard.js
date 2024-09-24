@@ -3,7 +3,7 @@ import "../styles/ProfileCard.css";
 
 export const profileData = {
     dp: <img
-        src="https://api.dicebear.com/9.x/adventurer/svg?seed=Ryan"
+        src="https://media.licdn.com/dms/image/v2/D4D35AQEoBDfSdgUoGA/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1695289367351?e=1727776800&v=beta&t=xgZeFrcC9AJcoZSUFKDiJqknbEsxCOPkKaB_dZsmiHs"
         alt="avatar"
         width={80}
         height={80}

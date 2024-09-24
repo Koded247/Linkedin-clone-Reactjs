@@ -16,7 +16,7 @@ const postData = [
   {
     name: "Akorede Abidoye",
     bio: "Software Engineer | Frontend Developer ",
-    text: "This is the dummy text that should show for the first post component"
+    text: "This is the first post content that would show for the first post component"
   },
   {
     name: "User one",

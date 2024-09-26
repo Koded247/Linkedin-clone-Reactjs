@@ -64,12 +64,12 @@ function App() {
 
       <div className='content-container flex flex-row gap-x-8 mt-8 mx-auto max-w-6xl'>
 
-        {/* The Left side of the body */}
+        
         <div>
           <ProfileCard />
         </div>
 
-        {/* The Center contents of the body */}
+        
         <div className='w-[60%] max-w-[60%]'>
           <CreatePost />
 
@@ -82,7 +82,7 @@ function App() {
           </div>
         </div>
 
-        {/* The Right side of the body */}
+        
         
         <div>
           <RecommendationsCard />

@@ -11,8 +11,8 @@ export const profileData = {
     />,
     name: "Akorede Abidoye",
     bio: "Software Engineer | Frontend Developer ",
-    profileViewers: 85,
-    postImpressions: 103,
+    profileViewers: 815,
+    postImpressions: 15029,
 }
 
 function ProfileCard() {
